@@ -1,0 +1,53 @@
+Country                                  / Capital City
+Afghanistan                              / Kabul
+Albania                                  / Tirana (Tirane)
+Algeria                                  / Algiers
+Andorra                                  / Andorra la Vella
+Angola                                   / Luanda
+Antigua and Barbuda                      / Saint John's
+Argentina                                / Buenos Aires
+Armenia                                  / Yerevan
+Australia                                / Canberra
+Austria                                  / Vienna
+Azerbaijan                               / Baku
+Bahamas                                  / Nassau
+Bahrain                                  / Manama
+Bangladesh                               / Dhaka
+Barbados                                 / Bridgetown
+Belarus                                  / Minsk
+Belgium                                  / Brussels
+Belize                                   / Belmopan
+Benin                                    / Porto Novo1
+Bhutan                                   / Thimphu
+Bolivia                                  / La Paz2
+Bosnia and Herzegovina                   / Sarajevo
+Botswana                                 / Gaborone
+Brazil                                   / Brasilia
+Brunei                                   / Bandar Seri Begawan
+Bulgaria                                 / Sofia
+Burkina Faso                             / Ouagadougou
+Burundi                                  / Gitega3
+Cambodia                                 / Phnom Penh
+Cameroon                                 / Yaounde
+Canada                                   / Ottawa
+Cape Verde                               / Praia
+Central African Republic                 / Bangui
+Chad                                     / N'Djamena
+Chile                                    / Santiago
+China                                    / Beijing
+Colombia                                 / Bogota
+Comoros                                  / Moroni
+Congo, Democratic Republic of the        / Kinshasa
+Congo, Republic of the                   / Brazzaville
+Costa Rica                               / San Jose
+Côte d'Ivoire (Ivory Coast)              / Yamoussoukro4
+Croatia                                  / Zagreb
+Cuba                                     / Havana
+Cyprus                                   / Nicosia
+Czech Republic (Czechia)5                / Prague
+Denmark                                  / Copenhagen
+Djibouti                                 / Djibouti
+Dominica                                 / Roseau
+Dominican Republic                       / Santo Domingo
+East Timor                               / Dili
+Ecuador                                  / Quito
